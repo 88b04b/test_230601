@@ -91,3 +91,9 @@ body {
 .info .item04 {
     background: url(../images/mainvisual01.jpg) no-repeat center center/cover;
 }
+
+@media (max-width:1200px) {
+    .main_visual_content {
+        left: 15px;
+    }
+}
